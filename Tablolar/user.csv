@@ -1,0 +1,8 @@
+id,email,mobile,name,password,role_id
+3,test@user.com,9787456545,"Test User",$2a$10$THnz3Bfa2AQj86gdUBrhD.9dMNUxRp9xnGojyWCNqDR9plOpJmsre,2
+4,test@admin.com,9787456545,"Test Admin",$2a$10$RdkrMPj0yFgqB0u7lRjAE.Z03Up0VhG/B9y7.MVmlUmxitbLDlm2G,1
+1005,fatih03uyanik@gmail.com,5447248802,"Fatih Uyanık",$2a$10$wZkdJ6dkRUivl6pHU3c3N.1p3C2VzwZ0Wxh0BIYDpIOYZzRhVmf.S,2
+1008,fatih@gmail.com,5447248802,Fatih,$2a$10$4IJlnV0csq2ihSAht5tW/.JZ5h9eRZ5sLV2sy2Mu9kven6msirl8u,2
+1009,abc@gmail.com,123456789,fatih,$2a$10$mSpVCjs7G6tBm2PdslUteOyiLBNKXfZYGePIWRicZgF.kL.L1hu1.,2
+1011,deneme@gmail.com,6453457,deneme,$2a$10$Bej/KVpikRhKReBLwFhW5ONkqINy5UNABt/vZZgY4rC1/mpHFUhFK,2
+1012,kontrol@gmail.com,348765,Kontrol,$2a$10$ALOaCWTPeJ31oMz2LXhBZO32HNkEGrZvxx297su89SLfndaQ9edGe,2

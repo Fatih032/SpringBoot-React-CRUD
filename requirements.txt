@@ -1,0 +1,20 @@
+Spring Boot version 2.4.3
+
+Dependency
+1 - spring-boot-starter-web
+2 - spring-boot-devtools
+3 - spring-boot-starter-data-jpa
+4 - postgresql
+5 - spring-boot-starter-security
+6 - mysql
+7 - spring-boot-starter-thymeleaf
+8 - h2database
+9 - spring-boot-starter-test
+10 - jersey-server
+11 - jersey-json
+12 - jwt
+13 - lombok
+
+React version 16.14.0
+
+npm i yaparak node_modules kurulumu yapabilirsiniz

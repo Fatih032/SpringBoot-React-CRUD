@@ -1,0 +1,6 @@
+id,create_by,create_date,update_by,update_date,dogum_tarihi,isim,kulüp,soyisim,sıno
+1,NULL,"2022-05-20 18:29:08",Fatih,"2022-05-21 18:31:24",1996,Fatih,"Uludağ Oryantiring SK",Uyanık,2130983
+2,Fatih,"2022-05-20 20:24:58",Fatih,"2022-05-21 19:42:23",1998,Ramazan,"Bursa OSK",Karakaya,2130975
+3,Fatih,"2022-05-20 22:43:13",Fatih,"2022-05-20 22:43:13",1995,Hilal,Ankara,Uyanık,43241
+4,Fatih,"2022-05-20 22:44:22",Fatih,"2022-05-20 22:44:22",1997,Şevket,"Jandarma Sk",Uyanık,8471180
+6,Fatih,"2022-05-22 00:22:03",Fatih,"2022-05-22 00:22:03",1992,"Veli ","Pikolo OSK",Kahveci,342545

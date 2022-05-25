@@ -9,7 +9,7 @@ React projesiyle CRUD işlemleri gerçekleştirebilirsiniz.
 
 Projede Mysql Database kullanılmıştır. Başka database bağlantısı yapmak için application.properties dosyasında örnekleri verilmiştir.
 
-![proje şeması](https://github.com/TechCareerBackEndSpringBoot1/challange-Fatih032/blob/main/Springboot/src/main/resources/static/images/react_spring.jpg)
+![proje şeması](https://github.com/Fatih032/SpringBoot-React-CRUD/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/react_spring.jpg)
 
 requirements.txt dosyasında hangi sürümleri kullandığımı görebilirsiniz.
 
